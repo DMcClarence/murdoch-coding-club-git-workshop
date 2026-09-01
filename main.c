@@ -2,7 +2,9 @@
 
 int main()
 {
-    printf("Hello World!\n");
+    printf("Hello Coding Club!\n");
+
+    printf("hello from tilly :)\n");
 
     printf("DMcClarence added this.");
 
